@@ -1,4 +1,4 @@
-# ![Althub Logo](https://github.com/jash011/Althub/main/Assets/althub.png) 
+# ![Althub Logo](https://github.com/jash011/Althub/tree/main/Assets/althub.png) 
 > **Althub**: Connecting Alumni and Students
 > <img src="~/Assets/athub.png" align="right"/>
 
@@ -55,9 +55,9 @@ Althub is built using the **MERN Stack** to ensure scalability, performance, and
 
 ## 🎥 Insights
 
-![Althub_login](https://github.com/jash011/Althub/main/Assets/Login_page.png)
-![Althub_admin](https://github.com/jash011/Althub/main/Assets/Admin_panel.png)
-![Althub_home](https://github.com/jash011/Althub/main/Assets/User_home.png)
+![Althub_login](https://github.com/jash011/Althub/tree/main/Assets/Login_page.jpeg)
+![Althub_admin](https://github.com/jash011/Althub/tree/main/Assets/Admin_panel.jpeg)
+![Althub_home](https://github.com/jash011/Althub/tree/main/Assets/User_home.jpeg)
 
 ---
 
